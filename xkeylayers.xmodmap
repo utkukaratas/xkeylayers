@@ -1,0 +1,12 @@
+keycode  31 = u U Up Up uacute Uacute
+keycode  44 = n N Left Left ntilde Ntilde
+keycode  45 = e E Down Down eacute Eacute
+keycode  46 = i I Right Right iacute Iacute
+
+keycode  43 = h H BackSpace H dead_caron asciitilde
+keycode  57 = k K Return N dead_abovering asciitilde
+keycode  58 = m M Return M dead_macron asciitilde
+keycode  42 = d D Delete G dead_diaeresis asciitilde
+
+keycode 65 = Mode_switch space space space
+keycode anykey2= space

@@ -1,0 +1,21 @@
+{
+    "layers": {
+       "SpaceFN-Colemak": {
+	   "map": {
+	     "u": "Up",
+	     "e": "Down",
+	     "i": "Right",
+	     "n": "Left ",
+	     "h": "BackSpace",
+	     "d": "Delete",
+	     "n": "Return"
+	   }
+	}
+    },
+
+    "modifiers": [
+        {"space": {"push": "SpaceFN-Colemak", "timeout": "250"}},
+	{"Shift_L": "leftparen"},
+	{"Shift_R": "leftright"}
+    ]
+}
